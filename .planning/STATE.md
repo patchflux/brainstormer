@@ -55,6 +55,7 @@ Recent decisions affecting current work:
 - Add integration tests and demo sessions
 - Add simplifier and market positioning agents (niche vs mass)
 - Add quick wins philosophy and shortcut finder
+- Add landing page generator phase for early validation
 
 ### Blockers/Concerns
 
