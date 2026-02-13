@@ -51,6 +51,7 @@ Recent decisions affecting current work:
 - Manual validation of Phase 2 (VALD-01 through VALD-04)
   - Run /brainstorm:new, /brainstorm:clarify, /brainstorm:specs in fresh sessions
   - Test GSD compatibility with generated specs
+- Add specialized parallel agents for deep idea analysis (v2 feature)
 
 ### Blockers/Concerns
 
