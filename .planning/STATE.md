@@ -52,6 +52,7 @@ Recent decisions affecting current work:
   - Run /brainstorm:new, /brainstorm:clarify, /brainstorm:specs in fresh sessions
   - Test GSD compatibility with generated specs
 - Add specialized parallel agents for deep idea analysis (v2 feature)
+- Add integration tests and demo sessions
 
 ### Blockers/Concerns
 
