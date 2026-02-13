@@ -54,6 +54,7 @@ Recent decisions affecting current work:
 - Add specialized parallel agents for deep idea analysis (v2 feature)
 - Add integration tests and demo sessions
 - Add simplifier and market positioning agents (niche vs mass)
+- Add quick wins philosophy and shortcut finder
 
 ### Blockers/Concerns
 
