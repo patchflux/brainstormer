@@ -43,10 +43,10 @@ Plans:
 **Plans:** 4 plans
 
 Plans:
-- [ ] 02-01-PLAN.md — Validate /brainstorm:new workflow (VALD-01)
-- [ ] 02-02-PLAN.md — Validate /brainstorm:clarify workflow (VALD-02)
-- [ ] 02-03-PLAN.md — Validate /brainstorm:specs workflow (VALD-03)
-- [ ] 02-04-PLAN.md — Validate GSD compatibility (VALD-04)
+- [ ] 02-01-PLAN.md — Validate /brainstorm:new workflow (VALD-01) — SKIPPED (manual test)
+- [ ] 02-02-PLAN.md — Validate /brainstorm:clarify workflow (VALD-02) — SKIPPED (manual test)
+- [ ] 02-03-PLAN.md — Validate /brainstorm:specs workflow (VALD-03) — SKIPPED (manual test)
+- [ ] 02-04-PLAN.md — Validate GSD compatibility (VALD-04) — SKIPPED (manual test)
 
 ## Progress
 
@@ -56,7 +56,7 @@ Phases execute in numeric order: 1 → 2
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Installation | 1/1 | ✓ Complete | 2026-02-13 |
-| 2. Validation | 0/4 | Not started | - |
+| 2. Validation | 0/4 | ⚠ Pending manual test | - |
 
 ---
 *Roadmap created: 2026-02-13*
