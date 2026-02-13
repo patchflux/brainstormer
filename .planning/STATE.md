@@ -59,6 +59,7 @@ Recent decisions affecting current work:
 - Add strategic hiring and team composition agent
 - Add fundraising strategy agent with multiple scenarios
 - Add commands for existing projects (analyze and zoom)
+- Add multi-timeline vision planning (validation → MVP → market → 10yr)
 
 ### Blockers/Concerns
 
