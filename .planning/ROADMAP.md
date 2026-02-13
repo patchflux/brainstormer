@@ -26,10 +26,10 @@ Decimal phases appear between their surrounding integers in numeric order.
   2. All required files (agents, workflows, commands, references, templates) are copied to ~/.claude/brainstomer/
   3. Installation script verifies success and reports any issues
   4. User sees clear usage instructions after installation completes
-**Plans**: TBD
+**Plans:** 1 plan
 
 Plans:
-- [ ] TBD during planning
+- [ ] 01-01-PLAN.md — Create installer script and update README
 
 ### Phase 2: Validation
 **Goal**: All brainstorm workflows execute successfully with real ideas and produce usable specs
@@ -52,7 +52,7 @@ Phases execute in numeric order: 1 → 2
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Installation | 0/TBD | Not started | - |
+| 1. Installation | 0/1 | Planned | - |
 | 2. Validation | 0/TBD | Not started | - |
 
 ---
