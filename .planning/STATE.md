@@ -58,6 +58,7 @@ Recent decisions affecting current work:
 - Add landing page generator phase for early validation
 - Add strategic hiring and team composition agent
 - Add fundraising strategy agent with multiple scenarios
+- Add commands for existing projects (analyze and zoom)
 
 ### Blockers/Concerns
 
