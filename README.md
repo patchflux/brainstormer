@@ -19,11 +19,19 @@ Inspired by [GSD](https://github.com/gsd-build/get-shit-done) — same philosoph
 
 ## Installation
 
+**Quick install (recommended):**
 ```bash
-# TODO: installer script
-# For now, copy to ~/.claude/
-cp -r agents commands references workflows ~/.claude/brainstomer/
+curl -fsSL https://raw.githubusercontent.com/moul/brainstomer/main/install.sh | sh
 ```
+
+**Manual install:**
+```bash
+git clone https://github.com/moul/brainstomer.git
+cd brainstomer
+./install.sh
+```
+
+Files are installed to `~/.claude/brainstomer/`.
 
 ## Commands
 
