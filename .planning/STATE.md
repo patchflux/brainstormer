@@ -61,6 +61,7 @@ Recent decisions affecting current work:
 - Add commands for existing projects (analyze and zoom)
 - Add multi-timeline vision planning (validation → MVP → market → 10yr)
 - Add smart contextual commands (progress, resume, next, help)
+- Add feedback command for external input processing (FAQ, storytelling)
 
 ### Blockers/Concerns
 
