@@ -7,10 +7,10 @@
 
 ### Installation
 
-- [ ] **INST-01**: User can install brainstomer with a single command
-- [ ] **INST-02**: Installer copies all required files to ~/.claude/brainstomer/
-- [ ] **INST-03**: Installer validates installation success
-- [ ] **INST-04**: Installer provides usage instructions after completion
+- [x] **INST-01**: User can install brainstomer with a single command ✓
+- [x] **INST-02**: Installer copies all required files to ~/.claude/brainstomer/ ✓
+- [x] **INST-03**: Installer validates installation success ✓
+- [x] **INST-04**: Installer provides usage instructions after completion ✓
 
 ### Validation
 
@@ -45,10 +45,10 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| INST-01 | Phase 1 | Pending |
-| INST-02 | Phase 1 | Pending |
-| INST-03 | Phase 1 | Pending |
-| INST-04 | Phase 1 | Pending |
+| INST-01 | Phase 1 | ✓ Done |
+| INST-02 | Phase 1 | ✓ Done |
+| INST-03 | Phase 1 | ✓ Done |
+| INST-04 | Phase 1 | ✓ Done |
 | VALD-01 | Phase 2 | Pending |
 | VALD-02 | Phase 2 | Pending |
 | VALD-03 | Phase 2 | Pending |

@@ -5,7 +5,7 @@
 See: .planning/PROJECT.md (updated 2026-02-13)
 
 **Core value:** Force clarity through constraint — kill bad ideas early
-**Current focus:** Phase 1: Installation
+**Current focus:** Phase 2: Validation
 
 ## Current Position
 
@@ -14,7 +14,7 @@ Plan: 1 of 1 (complete)
 Status: Phase 1 complete
 Last activity: 2026-02-13 — Completed 01-01-PLAN.md (installer)
 
-Progress: [=====-----] 50%
+Progress: [=====-----] 50% (Phase 1 complete, Phase 2 pending)
 
 ## Performance Metrics
 

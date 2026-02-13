@@ -12,7 +12,7 @@ This brownfield project has core agents and workflows already implemented. Two r
 
 Decimal phases appear between their surrounding integers in numeric order.
 
-- [ ] **Phase 1: Installation** - Make brainstomer deployable with single command
+- [x] **Phase 1: Installation** - Make brainstomer deployable with single command ✓
 - [ ] **Phase 2: Validation** - Verify all workflows work end-to-end
 
 ## Phase Details
@@ -29,7 +29,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 **Plans:** 1 plan
 
 Plans:
-- [ ] 01-01-PLAN.md — Create installer script and update README
+- [x] 01-01-PLAN.md — Create installer script and update README ✓
 
 ### Phase 2: Validation
 **Goal**: All brainstorm workflows execute successfully with real ideas and produce usable specs
@@ -52,7 +52,7 @@ Phases execute in numeric order: 1 → 2
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Installation | 0/1 | Planned | - |
+| 1. Installation | 1/1 | ✓ Complete | 2026-02-13 |
 | 2. Validation | 0/TBD | Not started | - |
 
 ---
