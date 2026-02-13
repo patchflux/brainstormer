@@ -19,12 +19,17 @@ Force clarity through constraint. If an idea can't survive skeptical questioning
 - ✓ Output templates created — existing
 - ✓ README documentation — existing
 - ✓ Codebase mapped — existing
+- ✓ Installer script for easy deployment — v1.0
 
 ### Active
 
-- [ ] Installer script for easy deployment
-- [ ] Real-world testing on actual ideas
+- [ ] Real-world testing on actual ideas (VALD-01 through VALD-04)
 - [ ] Iteration based on usage feedback
+- [ ] Specialized parallel agents for deep idea analysis
+- [ ] Smart contextual commands (progress, resume, next, help)
+- [ ] Commands for existing projects (analyze, zoom)
+- [ ] Feedback command for external input processing
+- [ ] Multi-timeline vision planning
 
 ### Out of Scope
 
@@ -64,6 +69,16 @@ Force clarity through constraint. If an idea can't survive skeptical questioning
 | 4 parallel research dimensions | Speed + comprehensive coverage | — Pending |
 | Kill/pivot/clarity outcomes | Honest assessment over validation | — Pending |
 | GSD integration | Seamless handoff to implementation | — Pending |
+| POSIX sh for installer | Maximum portability | ✓ Good |
+| Detect source dir by file check | Works in non-tty environments | ✓ Good |
+| Remove+copy for idempotent updates | Clean updates without merge conflicts | ✓ Good |
+
+## Current State
+
+**v1.0 MVP shipped:** 2026-02-13
+- Installer complete and working
+- Validation requires manual testing in fresh sessions
+- 11 v2 feature todos captured
 
 ---
-*Last updated: 2026-02-13 after initialization*
+*Last updated: 2026-02-14 after v1.0 milestone*

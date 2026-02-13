@@ -51,7 +51,7 @@ must_haves:
 | Artifact | Expected | Status | Details |
 |----------|----------|--------|---------|
 | `install.sh` | Single-command installer (min 30 lines) | VERIFIED | 102 lines, executable, POSIX-compliant |
-| `README.md` | Installation instructions with curl command | VERIFIED | Contains `curl -fsSL https://raw.githubusercontent.com/moul/brainstomer/main/install.sh \| sh` |
+| `README.md` | Installation instructions with curl command | VERIFIED | Contains `curl -fsSL https://raw.githubusercontent.com/patchflux/brainstomer/main/install.sh \| sh` |
 
 ### Artifact Verification (3-Level)
 
