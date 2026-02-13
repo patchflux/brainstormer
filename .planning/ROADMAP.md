@@ -40,10 +40,13 @@ Plans:
   2. /brainstorm:clarify resumes existing session and continues dichotomy questioning
   3. /brainstorm:specs generates both product and technical spec files
   4. Generated specs work with /gsd:new-project --auto flag (valid format, complete sections)
-**Plans**: TBD
+**Plans:** 4 plans
 
 Plans:
-- [ ] TBD during planning
+- [ ] 02-01-PLAN.md — Validate /brainstorm:new workflow (VALD-01)
+- [ ] 02-02-PLAN.md — Validate /brainstorm:clarify workflow (VALD-02)
+- [ ] 02-03-PLAN.md — Validate /brainstorm:specs workflow (VALD-03)
+- [ ] 02-04-PLAN.md — Validate GSD compatibility (VALD-04)
 
 ## Progress
 
@@ -53,7 +56,7 @@ Phases execute in numeric order: 1 → 2
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Installation | 1/1 | ✓ Complete | 2026-02-13 |
-| 2. Validation | 0/TBD | Not started | - |
+| 2. Validation | 0/4 | Not started | - |
 
 ---
 *Roadmap created: 2026-02-13*
