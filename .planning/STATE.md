@@ -56,6 +56,7 @@ Recent decisions affecting current work:
 - Add simplifier and market positioning agents (niche vs mass)
 - Add quick wins philosophy and shortcut finder
 - Add landing page generator phase for early validation
+- Add strategic hiring and team composition agent
 
 ### Blockers/Concerns
 
