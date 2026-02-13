@@ -57,6 +57,7 @@ Recent decisions affecting current work:
 - Add quick wins philosophy and shortcut finder
 - Add landing page generator phase for early validation
 - Add strategic hiring and team composition agent
+- Add fundraising strategy agent with multiple scenarios
 
 ### Blockers/Concerns
 
