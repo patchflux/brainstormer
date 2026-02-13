@@ -53,6 +53,7 @@ Recent decisions affecting current work:
   - Test GSD compatibility with generated specs
 - Add specialized parallel agents for deep idea analysis (v2 feature)
 - Add integration tests and demo sessions
+- Add simplifier and market positioning agents (niche vs mass)
 
 ### Blockers/Concerns
 
