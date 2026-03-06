@@ -1,6 +1,6 @@
 ---
 name: brainstorm
-description: Devil's advocate cofounder that challenges your startup ideas through research and clarification until they're crystal clear or killed early. Use when you have a business idea to validate, need to stress-test assumptions, or want to generate product specs from a validated concept.
+description: Devil's advocate cofounder that challenges your startup ideas through research and clarification until they're crystal clear or killed early. Use when you have a business idea to validate, need to stress-test assumptions, or want to generate product specs.
 argument-hint: "[new|clarify|specs|help]"
 ---
 
@@ -8,7 +8,7 @@ argument-hint: "[new|clarify|specs|help]"
 
 I help you clarify ideas until they're obvious — or kill them early.
 
-## Commands
+## Usage
 
 | Command | Description |
 |---------|-------------|
@@ -55,43 +55,16 @@ All files in `.brainstorm/`:
 | `PRODUCT_SPEC.md` | Product specification (after specs) |
 | `TECHNICAL_SPEC.md` | Technical specification (after specs) |
 
-## Usage
-
-**Start a new brainstorm:**
-```
-/brainstorm new
-```
-Then describe your idea when prompted.
-
-**Resume clarification:**
-```
-/brainstorm clarify
-```
-
-**Generate specs (after clarification):**
-```
-/brainstorm specs
-```
-
-## Workflow Details
-
-For detailed workflow instructions, see:
-- [workflows/new.md](workflows/new.md) — New session workflow
-- [workflows/clarify.md](workflows/clarify.md) — Clarification workflow
-- [workflows/specs.md](workflows/specs.md) — Spec generation workflow
-
-## Agent Prompts
-
-For agent implementations, see:
-- [agents/brainstorm-researcher.md](agents/brainstorm-researcher.md)
-- [agents/brainstorm-clarifier.md](agents/brainstorm-clarifier.md)
-- [agents/brainstorm-specwriter.md](agents/brainstorm-specwriter.md)
-
 ---
 
 When invoked, determine which subcommand was requested from `$ARGUMENTS`:
 
-- **`new`** or empty: Execute `workflows/new.md`
-- **`clarify`**: Execute `workflows/clarify.md`
-- **`specs`**: Execute `workflows/specs.md`
-- **`help`**: Display the commands table above
+- **`new`** or no argument: Read and execute the workflow in `${CLAUDE_SKILL_DIR}/../../workflows/new.md`
+- **`clarify`**: Read and execute the workflow in `${CLAUDE_SKILL_DIR}/../../workflows/clarify.md`
+- **`specs`**: Read and execute the workflow in `${CLAUDE_SKILL_DIR}/../../workflows/specs.md`
+- **`help`**: Display the usage table above
+
+For agent prompts, reference:
+- `${CLAUDE_SKILL_DIR}/../../agents/brainstorm-researcher.md`
+- `${CLAUDE_SKILL_DIR}/../../agents/brainstorm-clarifier.md`
+- `${CLAUDE_SKILL_DIR}/../../agents/brainstorm-specwriter.md`

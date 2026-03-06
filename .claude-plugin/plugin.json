@@ -1,0 +1,12 @@
+{
+  "name": "brainstomer",
+  "description": "Devil's advocate cofounder - challenges ideas through research and clarification until crystal clear or killed early",
+  "version": "1.2.0",
+  "author": {
+    "name": "patchflux"
+  },
+  "homepage": "https://github.com/patchflux/brainstormer",
+  "repository": "https://github.com/patchflux/brainstormer",
+  "license": "MIT",
+  "keywords": ["brainstorming", "startup", "validation", "ideas", "devil's advocate"]
+}

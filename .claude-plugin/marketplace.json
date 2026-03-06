@@ -1,0 +1,19 @@
+{
+  "name": "brainstomer",
+  "owner": {
+    "name": "patchflux"
+  },
+  "metadata": {
+    "description": "Devil's advocate cofounder that challenges your startup ideas"
+  },
+  "plugins": [
+    {
+      "name": "brainstomer",
+      "source": "./",
+      "description": "Devil's advocate cofounder - challenges ideas through research and clarification until crystal clear or killed early",
+      "version": "1.2.0",
+      "category": "productivity",
+      "keywords": ["brainstorming", "startup", "validation", "ideas"]
+    }
+  ]
+}

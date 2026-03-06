@@ -19,36 +19,25 @@ Inspired by [GSD](https://github.com/gsd-build/get-shit-done) — same philosoph
 
 ## Installation
 
-### Claude Code
+### Claude Code / Claude Desktop (Marketplace)
 
-**Quick install (recommended):**
+```
+/plugin marketplace add patchflux/brainstormer
+/plugin install brainstomer@brainstomer
+```
+
+Or add directly:
+```
+/plugin add patchflux/brainstormer
+```
+
+### Manual Install (Claude Code)
+
 ```bash
 curl -fsSL https://raw.githubusercontent.com/patchflux/brainstomer/main/install.sh | sh
 ```
 
-**Manual install:**
-```bash
-git clone https://github.com/patchflux/brainstomer.git
-cd brainstomer
-./install.sh
-```
-
 Files are installed to `~/.claude/brainstomer/`.
-
-### Claude.ai / Claude Desktop
-
-1. Download the latest release ZIP from [Releases](https://github.com/patchflux/brainstomer/releases)
-2. In Claude, go to **Customize > Skills**
-3. Click **+** > **Upload a skill**
-4. Select the downloaded ZIP file
-
-Or build from source:
-```bash
-git clone https://github.com/patchflux/brainstomer.git
-cd brainstomer
-./package.sh
-# Creates brainstomer-<version>.zip
-```
 
 ## Commands
 
