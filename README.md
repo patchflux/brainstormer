@@ -1,6 +1,6 @@
 # Brainstomer
 
-**Devil's advocate cofounder bot for Claude Code.**
+**Devil's advocate cofounder bot for Claude.**
 
 Challenges your ideas through dichotomy questioning until they're crystal clear — or kills them early.
 
@@ -19,6 +19,8 @@ Inspired by [GSD](https://github.com/gsd-build/get-shit-done) — same philosoph
 
 ## Installation
 
+### Claude Code
+
 **Quick install (recommended):**
 ```bash
 curl -fsSL https://raw.githubusercontent.com/patchflux/brainstomer/main/install.sh | sh
@@ -32,6 +34,21 @@ cd brainstomer
 ```
 
 Files are installed to `~/.claude/brainstomer/`.
+
+### Claude.ai / Claude Desktop
+
+1. Download the latest release ZIP from [Releases](https://github.com/patchflux/brainstomer/releases)
+2. In Claude, go to **Customize > Skills**
+3. Click **+** > **Upload a skill**
+4. Select the downloaded ZIP file
+
+Or build from source:
+```bash
+git clone https://github.com/patchflux/brainstomer.git
+cd brainstomer
+./package.sh
+# Creates brainstomer-<version>.zip
+```
 
 ## Commands
 
