@@ -21,12 +21,12 @@ Inspired by [GSD](https://github.com/gsd-build/get-shit-done) — same philosoph
 
 **Quick install (recommended):**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/moul/brainstomer/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/patchflux/brainstomer/main/install.sh | sh
 ```
 
 **Manual install:**
 ```bash
-git clone https://github.com/moul/brainstomer.git
+git clone https://github.com/patchflux/brainstomer.git
 cd brainstomer
 ./install.sh
 ```
